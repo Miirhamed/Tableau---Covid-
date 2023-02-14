@@ -1,5 +1,5 @@
 # Tableau---Covid-
-
+SQLQuery2: 
 -- Database (CovidProject) consists of 
 -- two tables (CovidDeaths and CovidVaccinations)
 -- Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions
@@ -19,4 +19,6 @@ Queries Description:
 -- Using Temp Table 
 -- Creating View for later visualizations
 
+T1,T2,T3,T4
+Created 4 tables from our queries in SQL for our visualization purpose 
 
